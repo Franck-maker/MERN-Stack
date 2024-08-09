@@ -2,8 +2,8 @@ import React from "react"
 
 const ArticlesList = () => {
     return(
-    <div>
-        ArticlesList
+    <div className= "font-bold text-center">
+        Articles
     </div>
     )
 };
