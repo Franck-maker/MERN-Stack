@@ -8,7 +8,7 @@ const articles = [
     {
         name: "learn-react",
         title: "The Fastest Way to Learn React",
-        thumbnail: "/images/blog1-jpg" ,
+        thumbnail: "/images/blog1.jpeg" ,
         content: [
     `Welcome! Today we're going to be talking about the fastest way to learn React.
     Lorem proin congue ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo.
@@ -27,7 +27,7 @@ const articles = [
     {
         name: "learn-node",
         title: "How to Build a Node Server in 10 Minutes",
-        thumbnail: "/images/blog2.jpg",
+        thumbnail: "/images/blog2.jpeg",
         content: [
     `In this article, we're going to be talking looking at a veny quick way to set up a Node-js server.
     We'll be discussing some topics such as proin congue ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo.
@@ -51,7 +51,7 @@ const articles = [
     {
         name: "ny-thoughts-on-learning-react",
         title: "My Thoughts on Learning Reactis",
-        thumbnail: "/images/blog3.jpg",
+        thumbnail: "/images/blog3.jpeg",
         content:[
             `Today is the day I talk about something which scares most people: Learning ReactJS.
     In reality, I'n not sure why people have such a hard time with Learning Reactis Ligula id
